@@ -7,7 +7,7 @@ app = dash.Dash(
     __name__,
     suppress_callback_exceptions=True,
     update_title=None,
-    title="知识库应用",
+    title="我的网盘空间",
 )
 
 
